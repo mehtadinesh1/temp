@@ -7,6 +7,7 @@ if user == 'ready':
     print('Give instruction')
     print('Collect electronic devices')
     print('Take water bottle')
+    print('Give sandwich')
 else:
     u = input('You want something')
     if u == 'yes':
