@@ -8,4 +8,8 @@ if user == 'ready':
     print('Collect electronic devices')
     print('Take water bottle')
 else:
-    print('There is still time left for exam')
+    u = input('You want something')
+    if u == 'yes':
+        print('Go outside the hall and take what you want form the bag')
+    else:
+        print("Sit quiet")
