@@ -6,5 +6,6 @@ if user == 'ready':
     print('Give question paper')
     print('Give instruction')
     print('Collect electronic devices')
+    print('Take water bottle')
 else:
     print('There is still time left for exam')
