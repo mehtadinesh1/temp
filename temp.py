@@ -11,5 +11,7 @@ else:
     u = input('You want something')
     if u == 'yes':
         print('Go outside the hall and take what you want form the bag')
+        print('You have 10 minute')
+        print('Come back ')
     else:
         print("Sit quiet")
